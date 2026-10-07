@@ -37,7 +37,7 @@ function Berita() {
                         <p className="judul-berita text-start">
                           Jadwal Praktikum
                         </p>
-                        <p className="rangkum-berita nama-struktur text-start">
+                        <p className="rangkum-berita nama-struktur text-start jadwal-desc">
                           Berikut adalah Jadwal Praktikum ATA 20241/2025
                         </p>
 
@@ -68,7 +68,7 @@ function Berita() {
                         <p className="judul-berita text-start">
                           Tata Cara Berpakaian Lab
                         </p>
-                        <p className="rangkum-berita nama-struktur text-start desc-berita">
+                        <p className="rangkum-berita nama-struktur text-start jadwal-desc">
                           Berikut ini adalah Tata cara berpakaian yang baik dan
                           benar di Laboratorium SI/MI.
                         </p>
