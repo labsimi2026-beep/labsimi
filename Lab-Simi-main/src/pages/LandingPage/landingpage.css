@@ -119,7 +119,7 @@ p {
 }
 
 .btn-primary-berita:active {
-  background-color: rgba(255, 255, 255, 0.1) !important;
+  background-color: rgb(255, 254, 254) !important;
   border: 2px solid white !important;
   font-weight: 600;
 }
@@ -158,7 +158,7 @@ p {
 }
 
 .laporan-wrap {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.07);
 }
 
 /* Perlengkapan Praktikan */
@@ -217,7 +217,7 @@ p {
   height: 100%;
   box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
   border-radius: 15px;
-  background-color: rgba(255, 255, 255, 0.07);
+  background-color: rgb(255, 255, 255);
   border-top: 1px solid rgba(255, 255, 255, 0.5);
   border-left: 1px solid rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(4px);
