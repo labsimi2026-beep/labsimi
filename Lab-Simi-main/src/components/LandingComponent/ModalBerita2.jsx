@@ -18,7 +18,7 @@ function ModalBerita2() {
 
       <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
-          <Modal.Title>Tata Cara Berpakaian Lab</Modal.Title>
+          <Modal.Title className="judul-berita">Tata Cara Berpakaian Lab</Modal.Title>
         </Modal.Header>
         <Modal.Body>
           <Carousel>
