@@ -69,20 +69,20 @@ function Footer() {
                     </li>
                     <li>
                       <i className="fa-brands fa-whatsapp text-white me-2"></i>
-                      <a href="https://api.whatsapp.com/send/?phone=6285782694950&text&type=phone_number&app_absent=0">
-                        +62 857-1826-3610 (Putri)
+                      <a href="https://api.whatsapp.com/send/?phone=62895379875853&text&type=phone_number&app_absent=0">
+                        +62 895-3798-75853 (Iman)
                       </a>
                     </li>
                     <li>
                       <i className="fa-brands fa-whatsapp text-white me-2"></i>
-                      <a href="https://api.whatsapp.com/send/?phone=6288211797682&text&type=phone_number&app_absent=0">
-                        +62 878-7838-7368 (Fikri)
+                      <a href="https://api.whatsapp.com/send/?phone=6283804163262&text&type=phone_number&app_absent=0">
+                        +62 838-0416-3262 (Indah)
                       </a>
                     </li>
                     <li>
                       <i className="fa-brands fa-whatsapp text-white me-2"></i>
-                      <a href="https://api.whatsapp.com/send/?phone=6285718263610&text&type=phone_number&app_absent=0">
-                        +62 815-8456-2850 (Agung)
+                      <a href="https://api.whatsapp.com/send/?phone=6288809149084&text&type=phone_number&app_absent=0">
+                        +62 888-0914-9084 (Nikol)
                       </a>
                     </li>
                   </ul>
