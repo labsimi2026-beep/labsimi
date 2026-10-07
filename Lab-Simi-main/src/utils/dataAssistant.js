@@ -131,7 +131,7 @@ export const dataAssistant = [
       },
       {
         id: "19",
-        image: "/assets/images/struktur/ayatul.png",
+        image: "/assets/images/struktur/FARADILLA.png",
         role: "Asisten Aktif",
         name: "Faradila Laela Putri ",
         date: "2026 - Sekarang",
