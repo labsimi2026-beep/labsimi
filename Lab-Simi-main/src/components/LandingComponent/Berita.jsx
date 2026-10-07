@@ -74,7 +74,7 @@ function Berita() {
                         </p>
 
                         <ModalBerita2 />
-                        <p className="tanggal-berita text-end  masa-jabatan">
+                        <p className="tanggal-berita text-end">
                           Last updated 1 months ago
                         </p>
                       </div>

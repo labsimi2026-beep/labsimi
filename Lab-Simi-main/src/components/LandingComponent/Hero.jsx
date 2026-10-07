@@ -13,7 +13,7 @@ function Hero() {
             Penyajian Informasi seputar Laboratorium Sistem Informasi.
           </p>
           <div className="button-hero">
-            <a href="https://api.whatsapp.com/send/?phone=6287878387368&text&type=phone_number&app_absent=0">
+            <a href="https://api.whatsapp.com/send/?phone=62895379875853&text&type=phone_number&app_absent=0">
               {" "}
               <button type="button" className="btn btn-primary mt-2">
                 Hubungi Kami

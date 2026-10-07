@@ -104,6 +104,7 @@ p {
 .tanggal-berita {
   font-size: 12px;
   line-height: 17px;
+  color: #fff;
 }
 
 .btn-primary-berita {
@@ -238,7 +239,6 @@ p {
 .masa-jabatan {
   font-size: 12px;
   line-height: 17px;
-  color: #fff;
 }
 
 /* Footer */
