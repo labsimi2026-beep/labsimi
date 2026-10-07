@@ -230,16 +230,19 @@ p {
 .jabatan-struktur {
   font-weight: 500;
   font-size: 15px;
+  color: #fff;
 }
 
 .nama-struktur {
   font-size: 12px;
   line-height: 17px;
+  color: #fff;
 }
 
 .masa-jabatan {
   font-size: 12px;
   line-height: 17px;
+  color: #fff;
 }
 
 /* Footer */
