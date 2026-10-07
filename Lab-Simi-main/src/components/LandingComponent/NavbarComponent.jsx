@@ -2,7 +2,7 @@ import React from "react";
 
 function NavbarComponent() {
   return (
-    <nav className="navbar navbar-expand-lg bg-primary navbar-dark">
+    <nav className="navbar navbar-expand-lg bg-transparent navbar-dark">
       <div className="container">
         <div className="d-flex">
           <a className="navbar-brand me-0" href="#">
